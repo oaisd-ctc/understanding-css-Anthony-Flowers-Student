@@ -4,6 +4,12 @@
 li {
     font-size: 150%;
     text-align: center;
+    padding: 0%;
+    margin: 0%;
+
+}
+li:hover {
+    opacity: 20%;
 }
 h2 {
     text-align: center;
